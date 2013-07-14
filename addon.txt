@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+        "name"              "Chat Tags"
+        "version"           ""
+        "up_date"           ""
+        "author_name"       "Tyguy"
+        "author_email"      ""
+        "info"              ""
+        "override"          "0"
+}
